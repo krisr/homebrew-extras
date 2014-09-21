@@ -9,7 +9,7 @@ class Llvm34extra < Formula
 
     resource 'clang' do
       url 'https://github.com/krisr/clang/archive/release_34.zip'
-      sha1 'add5420b10c3c3a38c4dc2322f8b64ba0a5def97'
+      sha1 '15d1037b9d93b1988d3a72bd74776da1e34a86f6'
     end
 
     resource 'clang-tools-extra' do
