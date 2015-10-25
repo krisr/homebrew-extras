@@ -28,7 +28,7 @@ class Llvm36extra < Formula
     resource "clang" do
       url 'https://github.com/krisr/clang/archive/release_36.zip'
       #url "http://llvm.org/releases/3.6.2/cfe-3.6.2.src.tar.xz"
-      sha256 "ae9180466a23acb426d12444d866b266ff2289b266064d362462e44f8d4699f3"
+      sha256 "da417b89696f9c57b0ebe5888e3a1142fdfb8d40"
     end
 
     resource "libcxx" do
